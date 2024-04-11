@@ -32,7 +32,7 @@ export default function Hero() {
               viewport={{ once: false, amount: 0.6 }}
               className="h1"
             >
-              <span className="text-accent">Explore</span> The Finest Andhra's{" "}
+              <span className="text-accent">Explore</span> The Finest Guntur's{" "}
               <span className="text-accent">Suji-Self-Drive</span> Cars
             </motion.h1>
             <motion.p
@@ -42,8 +42,8 @@ export default function Hero() {
               viewport={{ once: false, amount: 0.6 }}
               className="description max-w-[550px] mx-auto xl:mx-0 mb-6 xl:mb-10"
             >
-              Find your ideal ride for any adventure with our diverse range of
-              affordable and dependable car rentals
+              Find Your Ideal Ride For Any Adventure With Our Diverse Range Of
+              Affordable And Dependable Car Rentals
             </motion.p>
             {/**btns */}
             <motion.div
