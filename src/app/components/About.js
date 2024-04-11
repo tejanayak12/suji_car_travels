@@ -39,8 +39,8 @@ const About = () => {
             className="flex-1 mt-14 xl:mb-0"
           >
             <Image
-              className="rounded-[20px]"
-              src={"/images/about/car01.png"}
+              className="rounded-[20px] mb-30"
+              src={"/images/about/Brezza12.png"}
               width={600}
               height={448}
               alt=""

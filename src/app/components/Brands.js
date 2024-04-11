@@ -63,14 +63,7 @@ export default function Brands() {
               alt=""
             />
           </div>
-          <div>
-            <Image
-              src={"/icons/brands/mazda.svg"}
-              width={62}
-              height={50}
-              alt=""
-            />
-          </div>
+          
         </div>
       </motion.div>
     </section>
